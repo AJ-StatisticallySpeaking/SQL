@@ -1,5 +1,5 @@
 # SQL Portfolio
-Antionette Johnson - Data Science Student
+
 Hi there, I'm AJ! 👋
 🚀 About Me
 Welcome to my GitHub! I'm AJ, a dedicated Data Science major with a passion for unraveling insights through data. I’m also a full-time professional working remotely as a supervisor at Phoenix Children’s Hospital, where I lead a team of schedulers and leverage my analytical skills to drive productivity and efficiency. This code repository contains examples of SQL I've written
